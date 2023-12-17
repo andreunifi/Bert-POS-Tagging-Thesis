@@ -1,5 +1,5 @@
 # POS Tagging with BERT Models
-
+[Colab Professore](https://colab.research.google.com/drive/1eIbQACpJ-1GM3FC6_HjnSgxixP2gj8M1?authuser=1#scrollTo=1nfiRM9zXtjs)
 This repository contains code and resources for training BERT-based models on Part-of-Speech (POS) tagging tasks. POS tagging is a fundamental step in natural language processing that involves assigning grammatical categories (such as noun, verb, adjective, etc.) to each word in a sentence.
 
 ## Table of Contents
