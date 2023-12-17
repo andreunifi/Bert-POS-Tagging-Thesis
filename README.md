@@ -78,8 +78,7 @@ python evaluate.py --model_path /path/to/trained_model --test_data /path/to/test
 | `bert-large-uncased`  |24-layer, 1024-hidden, 16-heads, 340M parameters. Trained on lower-cased English text.|
 | `bert-base-cased`     |12-layer, 768-hidden, 12-heads, 110M parameters.Trained on cased English text.|
 | `bert-large-cased`    |24-layer, 1024-hidden, 16-heads, 340M parameters.Trained on cased English text.|
-| `bert-base-multilingual-cased`  |(New, recommended) 12-layer, 768-hidden, 12-heads, 110M parameters.Trained on cased text in the top 104 languages with the largest Wikipedias
-(see [Details ]([https://www.google.com](https://github.com/google-research/bert/blob/master/multilingual.md))).| 
+| `bert-base-multilingual-cased`|(New, recommended) 12-layer, 768-hidden, 12-heads, 110M parameters.Trained on cased text in the top 104 languages with the largest Wikipedias (see [Details ]([https://www.google.com](https://github.com/google-research/bert/blob/master/multilingual.md))).| 
 
 
 ## Results
