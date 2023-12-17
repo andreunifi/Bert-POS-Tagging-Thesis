@@ -1,6 +1,8 @@
 # POS Tagging with BERT Models
+
 [Colab Professore](https://colab.research.google.com/drive/1eIbQACpJ-1GM3FC6_HjnSgxixP2gj8M1?authuser=1#scrollTo=1nfiRM9zXtjs)
 [Colab Comparazioni e Analisi vari modelli](https://colab.research.google.com/drive/1pb57c6C1Z7xlF8UgcRFsxa-RNeOKH0tu?authuser=1)
+[HuggingFace BERT Benchmark page](https://huggingface.co/docs/transformers/benchmarks)
 
 This repository contains code and resources for training BERT-based models on Part-of-Speech (POS) tagging tasks. POS tagging is a fundamental step in natural language processing that involves assigning grammatical categories (such as noun, verb, adjective, etc.) to each word in a sentence.
 
@@ -53,6 +55,7 @@ python download_weights.py
 3. Follow the instructions in the [Training](#training) section to fine-tune the BERT models on your POS tagging dataset.
 
 4. Evaluate the trained models using the guidelines in the [Evaluation](#evaluation) section.
+
 
 ## Training
 
